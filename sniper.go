@@ -1,4 +1,10 @@
-package main
+
+package
+packagepackagepackagepackagepackageil"
+
+il"
+
+packagepackagepackagepackagepackagepackagepackagepackage main
 
 import (
 	"bufio"
